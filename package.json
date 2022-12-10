@@ -1,6 +1,6 @@
 {
   "name": "expo-template-blank-typescript",
-  "description": "The Blank project template includes the minimum dependencies to run and an empty root component.",
+  "description": "The Blank project template includes the minimum dependencies to run and an empty root component with typescript and nativewind`.",
   "version": "47.0.19",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
